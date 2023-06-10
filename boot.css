@@ -1,0 +1,26 @@
+.img {
+    border-radius: 5px;
+    width: 380px;
+    position: absolute;
+    top: 70px;
+    right: 10px;
+}
+.img1 {
+    margin: 20px;
+    border-radius: 5px;
+}
+.one1 {
+    position: absolute;
+    top: 580px;
+    left: 220px;
+}
+.two2 {
+    position: absolute;
+    top: 580px;
+    left: 730px;
+}
+.three3 {
+    position: absolute;
+    top: 580px;
+    left: 1230px;
+}
